@@ -1,14 +1,14 @@
-// function pow(x, y) {
-//     let resault = 1; 
+function pow(x, y) {
+    let resault = 1; 
 
-//     for (let i = 0; i < y; i++) {
-//         resault = resault * x;
-//         // resault *= x;
-//     }
+    for (let i = 0; i < y; i++) {
+        resault = resault * x;
+        // resault *= x;
+    }
 
-//     return resault;
-// }
+    return resault;
+}
 
-// console.log("Resault =", pow(3, 4));
-// console.log("Resault =",pow(2, 4));
-// console.log("Resault =", pow(8, 2));
+console.log("Resault =", pow(3, 4));
+console.log("Resault =",pow(2, 4));
+console.log("Resault =", pow(8, 2));
