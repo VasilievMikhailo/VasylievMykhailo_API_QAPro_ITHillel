@@ -11,4 +11,4 @@ function pow(x, y) {
 
 console.log("Resault =", pow(3, 4));
 console.log("Resault =",pow(2, 4));
-console.log("Resault =", pow(9, 2));
+console.log("Resault =", pow(8, 2));
